@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : lcd_2_8_mirror_thin.dra                       )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Oct 29 09:24:43 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/symbols
+    Name      = lcd_2_8_mirror_thin.psm
+    User      = Administrator
+    Machine   = CHINA-F7AD562CC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

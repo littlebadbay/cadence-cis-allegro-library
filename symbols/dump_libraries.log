@@ -1,0 +1,347 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Fri Oct 26 09:31:13 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/maincontrolboardB/PCB/Main_board_20121025_V2.0.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  S13_022 being dumped.
+
+  R150_30 being dumped.
+
+  OX0_40Y1_60T being dumped.
+
+  R145_30 being dumped.
+
+  R160_60 being dumped.
+
+  OX1_65Y0_30T being dumped.
+
+  SQ1_2S being dumped.
+
+  C250H180 being dumped.
+
+  SQ1_5S being dumped.
+
+  40X70OV being dumped.
+
+  SO15_03 being dumped.
+
+  35X60OV being dumped.
+
+  S250H180 being dumped.
+
+  35X45OV being dumped.
+
+  SO80_24 being dumped.
+
+  R210_100 being dumped.
+
+  R250_125 being dumped.
+
+  FID10X20 being dumped.
+
+  SO13_022 being dumped.
+
+  10X25REC being dumped.
+
+  41X70REC being dumped.
+
+  16X25REC being dumped.
+
+  34X54REC being dumped.
+
+  36X71REC being dumped.
+
+  28X44REC being dumped.
+
+  R1590_1040C570H380T430_490_55 being dumped.
+
+  67X63REC being dumped.
+
+  86X94REC being dumped.
+
+  SMD30_96 being dumped.
+
+  PAD_80_110HOLE60OVAL being dumped.
+
+  64X112REC being dumped.
+
+  PAD80_315 being dumped.
+
+  84X118REC being dumped.
+
+  SMD100_50 being dumped.
+
+  SMD40_160 being dumped.
+
+  SMD80_150 being dumped.
+
+  SMD110_100 being dumped.
+
+  PAD_90_75HOLE45 being dumped.
+
+  PGA being dumped.
+
+  VIA being dumped.
+
+  SMD36REC12 being dumped.
+
+  C120H70T120_150_40 being dumped.
+
+  HOLE110CMM being dumped.
+
+  C130H80T130_160_40 being dumped.
+
+  R1X4 being dumped.
+
+  RX0_70Y0_90R0_10 being dumped.
+
+  RX2_25Y2_60R0_10 being dumped.
+
+  S120H70T120_150_40 being dumped.
+
+  RX0_65Y0_95R0_10 being dumped.
+
+  RX1_75Y1_48R0_10 being dumped.
+
+  40X30 being dumped.
+
+  SMD110REC23 being dumped.
+
+  R700_555P4R236_164 being dumped.
+
+  C150H100T150_180_45 being dumped.
+
+  VIA20 being dumped.
+
+  C205H135T185_220_50 being dumped.
+
+  VIA30 being dumped.
+
+  C195H130T180_215_40 being dumped.
+
+  VIA26 being dumped.
+
+  VIA55 being dumped.
+
+  S205H135T185_220_50 being dumped.
+
+  S195H130T180_215_40 being dumped.
+
+  50RD32 being dumped.
+
+  60RD40 being dumped.
+
+  70RD40 being dumped.
+
+  50RD28 being dumped.
+
+  RX0_80Y1_80R0_10T being dumped.
+
+  62RD28 being dumped.
+
+  64RD36 being dumped.
+
+  65RD45 being dumped.
+
+  56RD38 being dumped.
+
+  PAD125 being dumped.
+
+  50SQ32 being dumped.
+
+  60SQ40 being dumped.
+
+  62SQ28 being dumped.
+
+  64SQ36 being dumped.
+
+  65SQ45 being dumped.
+
+  56SQ38 being dumped.
+
+  S50_30 being dumped.
+
+  S30_15 being dumped.
+
+  S15_03 being dumped.
+
+  S80_24 being dumped.
+
+  220_240 being dumped.
+
+  PAD80CIR40P_OLONG being dumped.
+
+  075_200 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  complex16x10a165 being dumped.
+
+  srx0_80y1_00r0_10 being dumped.
+
+  srx0_70y0_90r0_10 being dumped.
+
+  srx0_80y1_80r0_10 being dumped.
+
+  srx2_25y2_60r0_10 being dumped.
+
+  srx0_75y1_05r0_10 being dumped.
+
+  srx0_90y1_90r0_10 being dumped.
+
+  srx2_35y2_70r0_10 being dumped.
+
+  srx0_65y0_95r0_10 being dumped.
+
+  srx1_75y1_48r0_10 being dumped.
+
+  srx1_85y1_59r0_10 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  led2012 being dumped.
+
+  to228-3 being dumped.
+
+  cap3216 being dumped.
+
+  moc3081 being dumped.
+
+  sot-223 being dumped.
+
+  c50v-100uf-5032 being dumped.
+
+  c25v-100uf-5032 being dumped.
+
+  soic-14 being dumped.
+
+  xtal_to_38_olong being dumped.
+
+  soic-16 being dumped.
+
+  sop125_9_pad being dumped.
+
+  c50v-474uf-5032 being dumped.
+
+  tp1-6040 being dumped.
+
+  res300p being dumped.
+
+  qfp144n being dumped.
+
+  cap15mm being dumped.
+
+  c1206-40x70-pol being dumped.
+
+  to-220ab being dumped.
+
+  c100v-104uf-5032 being dumped.
+
+  c50v-1000uf-6040 being dumped.
+
+  buzzer953_508 being dumped.
+
+  to92-5032 being dumped.
+
+  cw254-1x3 being dumped.
+
+  b772-60x40 being dumped.
+
+  c603-35x45 being dumped.
+
+  r603-35x45 being dumped.
+
+  r805-35x60 being dumped.
+
+  xtal_smd being dumped.
+
+  pin1x2-6040 being dumped.
+
+  pin1x3-6040 being dumped.
+
+  pin1x4-6040 being dumped.
+
+  0603c being dumped.
+
+  lcd_2_8_mirror being dumped.
+
+  pin1x2-5638 being dumped.
+
+  pin1x3-5638 being dumped.
+
+  pin1x4-5638 being dumped.
+
+  fb1806-41x70 being dumped.
+
+  pin1x5-5638 being dumped.
+
+  pin1x6-5638 being dumped.
+
+  0603r being dumped.
+
+  sot23-28x44 being dumped.
+
+  resc3216x70 being dumped.
+
+  rx27-5w-7040 being dumped.
+
+  diomelf3515 being dumped.
+
+  r-5032 being dumped.
+
+  dip_4mm_2p being dumped.
+
+  dip_4mm_3p being dumped.
+
+  smd-button being dumped.
+
+  c50v-1uf-5028 being dumped.
+
+  jump1x8-6040 being dumped.
+
+  soic8 being dumped.
+
+  cw_smd_3x3 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  m-pad being dumped.
+
+  mtg125 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               85
+Number of package symbols dumped:         52
+Number of mechanical symbols dumped:       2
+Number of shape symbols dumped:           11
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           66
+*****************************************************
+

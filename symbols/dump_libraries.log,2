@@ -1,0 +1,215 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Sep 27 09:32:19 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/lht/MT_CONTROL_BOARDV4.0/PCB/mt_control_board.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  105RD75 being dumped.
+
+  S13_022 being dumped.
+
+  OX0_40Y1_60T being dumped.
+
+  230RD125 being dumped.
+
+  40X70OV being dumped.
+
+  SO15_03 being dumped.
+
+  35X60OV being dumped.
+
+  35X45OV being dumped.
+
+  SO80_24 being dumped.
+
+  FID10X20 being dumped.
+
+  SO13_022 being dumped.
+
+  41X70REC being dumped.
+
+  70X80REC being dumped.
+
+  80X25REC being dumped.
+
+  34X54REC being dumped.
+
+  36X71REC being dumped.
+
+  28X44REC being dumped.
+
+  67X63REC being dumped.
+
+  86X94REC being dumped.
+
+  SMD30_96 being dumped.
+
+  PAD_80_110HOLE60OVAL being dumped.
+
+  64X112REC being dumped.
+
+  PAD80_315 being dumped.
+
+  84X118REC being dumped.
+
+  210X238REC being dumped.
+
+  SMD110_100 being dumped.
+
+  PAD_90_75HOLE45 being dumped.
+
+  PGA being dumped.
+
+  VIA being dumped.
+
+  SMD36REC12 being dumped.
+
+  40X30 being dumped.
+
+  PAD_80_50HOLE55X25OVAL being dumped.
+
+  VIA20 being dumped.
+
+  VIA30 being dumped.
+
+  VIA26 being dumped.
+
+  VIA55 being dumped.
+
+  50RD32 being dumped.
+
+  60RD40 being dumped.
+
+  70RD40 being dumped.
+
+  60RD32 being dumped.
+
+  50RD28 being dumped.
+
+  62RD28 being dumped.
+
+  95RD40 being dumped.
+
+  64RD36 being dumped.
+
+  65RD45 being dumped.
+
+  56RD38 being dumped.
+
+  88RD60 being dumped.
+
+  PAD125 being dumped.
+
+  50SQ32 being dumped.
+
+  60SQ40 being dumped.
+
+  95RD55 being dumped.
+
+  95RD65 being dumped.
+
+  62SQ28 being dumped.
+
+  64SQ36 being dumped.
+
+  65SQ45 being dumped.
+
+  56SQ38 being dumped.
+
+  S50_30 being dumped.
+
+  S30_15 being dumped.
+
+  S15_03 being dumped.
+
+  S80_24 being dumped.
+
+  100RD70 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  c50v-100uf-down-5032 being dumped.
+
+  soic-8 being dumped.
+
+  c25v-100uf-down-5032 being dumped.
+
+  c50v-470uf-down-7040 being dumped.
+
+  2esda-8 being dumped.
+
+  motor1x2-8060 being dumped.
+
+  soic-14 being dumped.
+
+  r005-10575 being dumped.
+
+  c1000v-472uf-5032 being dumped.
+
+  c805-35x60 being dumped.
+
+  r805-35x60 being dumped.
+
+  c1206-40x70 being dumped.
+
+  cw-l-62x28 being dumped.
+
+  pin1x5-down-5638 being dumped.
+
+  hole-230125 being dumped.
+
+  to220-65x45 being dumped.
+
+  sot23-28x44 being dumped.
+
+  rx27-5w-7040 being dumped.
+
+  fuse being dumped.
+
+  c50v-1uf-down-5028 being dumped.
+
+  diomelf3515 being dumped.
+
+  to-252 being dumped.
+
+  so-24l being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  m-pad being dumped.
+
+  mtg125 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               61
+Number of package symbols dumped:         23
+Number of mechanical symbols dumped:       2
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           26
+*****************************************************
+

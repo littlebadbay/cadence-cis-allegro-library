@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : soic-8.dra                                    )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Sep 25 14:40:03 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/symbols
+    Name      = soic-8.psm
+    User      = Administrator
+    Machine   = CHINA-F7AD562CC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,52 @@
+\t (00:00:00) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Thu Sep 27 15:16:02 2012
+\t (00:00:00)         Host=CHINA-F7AD562CC User=Administrator Pid=2856 CPUs=2
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:01) trapsize 894
+\i (00:00:01) trapsize 872
+\i (00:00:01) trapsize 898
+\i (00:00:01) trapsize 909
+\i (00:00:01) trapsize 774
+\i (00:00:01) trapsize 1347
+\i (00:00:02) noappmode 
+\i (00:00:03) open 
+\i (00:00:13) fillin "c50v-100uf-down-5032.dra"
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 639
+\i (00:00:13) trapsize 616
+\i (00:00:13) trapsize 632
+\i (00:00:14) trapsize 1374
+\d (00:00:14) Database opened: E:/symbols/c50v-100uf-down-5032.dra
+\i (00:00:14) noappmode 
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 141.21 212.68
+\i (00:00:15) trapsize 1374
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 42.26 50.51
+\i (00:00:16) trapsize 687
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -297.20 50.51
+\i (00:00:16) trapsize 344
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -297.21 50.51
+\i (00:00:17) trapsize 687
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -297.20 50.52
+\i (00:00:17) trapsize 1374
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 42.26 50.51
+\i (00:00:17) trapsize 1374
+\e (00:01:46) Command not found: xhilite
+\i (00:01:46) xname_flush 
+\e (00:01:46) No command active
+\i (00:01:46) done 
+\e (00:01:46) No command active
+\i (00:01:52) exit 
+\t (00:01:52)     Journal end - Thu Sep 27 15:17:54 2012

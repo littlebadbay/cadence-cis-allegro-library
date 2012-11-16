@@ -1,0 +1,1 @@
+lcd_2_8_mirror_thin.dra

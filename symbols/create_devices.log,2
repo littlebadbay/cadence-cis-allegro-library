@@ -1,0 +1,74 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : mt_control_board.brd                          )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Sep 27 09:32:21 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Documents and Settings/Administrator/桌面/123/header2_motor1x2-8060_dc.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capacitorpol_c25v-100uf-down-5.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capacitorpol_c50v-100uf-down-5.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capacitorpol_c50v-470uf-down-7.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capacitorpol_c50v-1uf-down-502.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_033uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/header5_pin1x5-down-5638_contr.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r005-10575_018r.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistorvar_cw-l-62x28_100k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistorvar_cw-l-62x28_10k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/bat17_diomelf3515_24v.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/bat17_diomelf3515_2v.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/bat17_diomelf3515_39v.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/bat17_diomelf3515_62v.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/testpoint_hole-230125_testpoi.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_rx27-5w-7040_5w75r.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/npnbce_sot23-28x44_2sc1653.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c1206-40x70_022uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_10uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_1nf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c1206-40x70_1uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_01uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_022uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_047uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_10nf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_001uf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c1000v-472uf-5032_4721k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/capnp_c805-35x60_22nf.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/header4_fuse_fuse.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/header8_2esda-8_motor.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/led_diomelf3515_led.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/pnpbce_sot23-28x44_2n5401.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/ap9972gp_to220-65x45_ap9972gp.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/irf4905_to220-65x45_irf4905.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_0r.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_51k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_22r.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_15k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_100k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_16k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_10k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_300k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_510k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_68k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_20k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_3k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_1m.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_120k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_200k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_220r.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_24k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_30k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_22k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/resistor_r805-35x60_27k.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/mc33035_so-24l_mc33035.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/lm393_soic-8_lm358.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/cd4070b_soic-14_cd4070b.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/ne555_soic-8_ne555.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/cd40106b_soic-14_cd40106b.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/l7805cv_to-252_78d15l.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/bat17_diomelf3515_4148.txt': written successfully.
+Device file 'C:/Documents and Settings/Administrator/桌面/123/lm324_soic-14_lm324.txt': written successfully.

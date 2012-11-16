@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : BLDC_board_V2.0.brd                           )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Sep 25 14:02:10 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/symbols/header40_exp20x2_125_header40.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_1000p.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_01uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_047uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_001uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_10uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c50v-474uf-5032_047uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_100p.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_0047uf.txt': written successfully.
+Device file 'E:/symbols/capnp_c603-35x45_1nf.txt': written successfully.
+Device file 'E:/symbols/header4_pin1x4-5638_cashin.txt': written successfully.
+Device file 'E:/symbols/header4_pin1x4-5638_jd1.txt': written successfully.
+Device file 'E:/symbols/header3_pin1x3-5638_code.txt': written successfully.
+Device file 'E:/symbols/header4_pin1x4-5638_cashout.txt': written successfully.
+Device file 'E:/symbols/header5_pin1x5-5638_motor_cont.txt': written successfully.
+Device file 'E:/symbols/header5_pin1x5-5638_uv.txt': written successfully.
+Device file 'E:/symbols/header4_pin1x4-5638_count.txt': written successfully.
+Device file 'E:/symbols/header4_pin1x4-5638_cmos.txt': written successfully.
+Device file 'E:/symbols/header2_pin1x2-5638_emi.txt': written successfully.
+Device file 'E:/symbols/header2_pin1x2-5638_inc.txt': written successfully.
+Device file 'E:/symbols/ferritebead_fb1806-41x70_blm41.txt': written successfully.
+Device file 'E:/symbols/pnpbce_sot23-28x44_9012.txt': written successfully.
+Device file 'E:/symbols/npnbce_sot23-28x44_8050.txt': written successfully.
+Device file 'E:/symbols/irlmlml6401_sot23-28x44_irlml64.txt': written successfully.
+Device file 'E:/symbols/npnbce_sot23-28x44_2n4401.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_3k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_10k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_100k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_20k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_47k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_470r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_1k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_2k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_510r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_150r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_510k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_24k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_120k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_360k.txt': written successfully.
+Device file 'E:/symbols/resistor_r805-35x60_75r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_1m.txt': written successfully.
+Device file 'E:/symbols/resistorvar_cw254-1x3_50k.txt': written successfully.
+Device file 'E:/symbols/resistorvar_cw_smd_3x3_10k.txt': written successfully.
+Device file 'E:/symbols/resistorvar_cw_smd_3x3_50k.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_220r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_200r.txt': written successfully.
+Device file 'E:/symbols/resistor_r603-35x45_30k.txt': written successfully.
+Device file 'E:/symbols/testpoint_tp1-6040_testpoint.txt': written successfully.
+Device file 'E:/symbols/lm324_soic-14_lm324.txt': written successfully.
+Device file 'E:/symbols/lm339_soic-14_lm339.txt': written successfully.

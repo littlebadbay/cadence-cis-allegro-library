@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : soic-24.dra                                   )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Sep 25 15:02:30 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/symbols
+    Name      = soic-24.psm
+    User      = Administrator
+    Machine   = CHINA-F7AD562CC
+
+
+Create symbol started.
+ 
+ Duplicate pin number 5. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
