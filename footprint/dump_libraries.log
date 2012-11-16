@@ -1,0 +1,573 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Fri Nov 09 09:24:41 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/proj/SP605.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  NP_HOLE_095 being dumped.
+
+  BGAVIA10_20_19_1MM being dumped.
+
+  RD60H40 being dumped.
+
+  PAD1_6C2_5MM being dumped.
+
+  RD60H36 being dumped.
+
+  RD70H46 being dumped.
+
+  SM1CIR being dumped.
+
+  PAD_94_5_H63 being dumped.
+
+  SQ60H40 being dumped.
+
+  REC28X126-BOT being dumped.
+
+  SQ60H36 being dumped.
+
+  SQ70H46 being dumped.
+
+  REC28X169-BOT being dumped.
+
+  P55SQ32 being dumped.
+
+  REC28X126-TOP being dumped.
+
+  VIA12_STD-TH being dumped.
+
+  126RD106 being dumped.
+
+  045RD025 being dumped.
+
+  REC25X60-LEFT being dumped.
+
+  SM47X21 being dumped.
+
+  082RD062 being dumped.
+
+  SM61X18 being dumped.
+
+  SM83X51 being dumped.
+
+  SM55X43 being dumped.
+
+  SM19X25 being dumped.
+
+  REC28X169-TOP being dumped.
+
+  SM75X43 being dumped.
+
+  045SQ025 being dumped.
+
+  060X030Y being dumped.
+
+  013X050Y being dumped.
+
+  050X013Y being dumped.
+
+  016X050Y being dumped.
+
+  050X016Y being dumped.
+
+  FID40_G being dumped.
+
+  025X060Y being dumped.
+
+  070X016Y being dumped.
+
+  150X055Y being dumped.
+
+  118X063Y being dumped.
+
+  161X083Y being dumped.
+
+  244X228Y being dumped.
+
+  SM1X1_1 being dumped.
+
+  SM2X2_2 being dumped.
+
+  SM60X100 being dumped.
+
+  PAD60R40 being dumped.
+
+  SM110X43 being dumped.
+
+  SM5_5X2 being dumped.
+
+  HOLE_67 being dumped.
+
+  NP-HOLE3_25MM being dumped.
+
+  HOLE_87 being dumped.
+
+  PAD20X70 being dumped.
+
+  REC51X10 being dumped.
+
+  REC20X80 being dumped.
+
+  19R10VIA being dumped.
+
+  REC20X81 being dumped.
+
+  55X43REC being dumped.
+
+  REC25X47 being dumped.
+
+  REC45X55 being dumped.
+
+  REC63X59 being dumped.
+
+  SQ124-SP being dumped.
+
+  REC79X83 being dumped.
+
+  SMD50_25 being dumped.
+
+  SMD32_17 being dumped.
+
+  REC98X86 being dumped.
+
+  PAD100C73 being dumped.
+
+  REC25X60-RIGHT being dumped.
+
+  SM05X1_1 being dumped.
+
+  SM2X1_05 being dumped.
+
+  SM1_4X03 being dumped.
+
+  SM1_6X03 being dumped.
+
+  SM03X1_6 being dumped.
+
+  SM04X3_5 being dumped.
+
+  VIA-24R12 being dumped.
+
+  SM_55_12 being dumped.
+
+  REC63X100 being dumped.
+
+  REC120X81 being dumped.
+
+  REC50X145 being dumped.
+
+  SM338X417 being dumped.
+
+  REC217X79 being dumped.
+
+  SM1_15X05 being dumped.
+
+  SM_08X025 being dumped.
+
+  SM03X1_65 being dumped.
+
+  SM1_65X03 being dumped.
+
+  TP-VIABGA being dumped.
+
+  RD37H37-NP being dumped.
+
+  PAD60CIR35 being dumped.
+
+  125C125D-NP being dumped.
+
+  SM1_9X1_1 being dumped.
+
+  SMD162BY68 being dumped.
+
+  SM2_8X2_4 being dumped.
+
+  SMD44REC32 being dumped.
+
+  SM1_55X045 being dumped.
+
+  NP_HOLE52 being dumped.
+
+  PAD60SQ36D being dumped.
+
+  SMD44REC72 being dumped.
+
+  SM3_45X095 being dumped.
+
+  PAD60SQR40 being dumped.
+
+  PAD8 being dumped.
+
+  HOLE102NPT being dumped.
+
+  60X12 being dumped.
+
+  91R71 being dumped.
+
+  HOLE125_250 being dumped.
+
+  024RD being dumped.
+
+  REC11X33-SH being dumped.
+
+  REC14X40-SH being dumped.
+
+  REC40X14-SH being dumped.
+
+  SM030 being dumped.
+
+  SM040 being dumped.
+
+  NP034 being dumped.
+
+  FID40 being dumped.
+
+  NP064 being dumped.
+
+  PAD24_15_75 being dumped.
+
+  036SQ being dumped.
+
+  SMD20 being dumped.
+
+  PAD_086C1_4 being dumped.
+
+  PAD066C1_143 being dumped.
+
+  SM_2_6X2_2 being dumped.
+
+  036R26 being dumped.
+
+  SM1X1 being dumped.
+
+  SM3X5 being dumped.
+
+  TP-VIA-24R12 being dumped.
+
+  REC150X65-SH being dumped.
+
+  P45R33 being dumped.
+
+  P55R32 being dumped.
+
+  P60X12 being dumped.
+
+  P56R41 being dumped.
+
+  P26X40 being dumped.
+
+  P12X63 being dumped.
+
+  P80X25 being dumped.
+
+  P40X48 being dumped.
+
+  110R071 being dumped.
+
+  P63X75 being dumped.
+
+  024X012 being dumped.
+
+  P-HOLE3_17C4 being dumped.
+
+  145R126 being dumped.
+
+  124X124 being dumped.
+
+  075R055 being dumped.
+
+  017X017 being dumped.
+
+  HOLE61 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  rec25x60-left being dumped.
+
+  sha_sot89msk being dumped.
+
+  rec25x60-right being dumped.
+
+  rec150x65-shape being dumped.
+
+  sha_sot89 being dumped.
+
+  rec11x33-sh being dumped.
+
+  rec39x14-sh being dumped.
+
+  rec14x39-sh being dumped.
+
+  rec16x38-sh being dumped.
+
+  rec45x19-sh being dumped.
+
+  rec19x45-sh being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  r5 being dumped.
+
+  ths70x50x45x4x20 being dumped.
+
+  ths52x32x45x4x20 being dumped.
+
+  ths71x51x45x4x20 being dumped.
+
+  ths62x42x45x4x20 being dumped.
+
+  ths72x52x45x4x20 being dumped.
+
+  ths82x62x45x4x20 being dumped.
+
+  ths91x71x45x4x20 being dumped.
+
+  ths65x45x45x4x20 being dumped.
+
+  ths76x56x45x4x20 being dumped.
+
+  ths68x48x45x4x20 being dumped.
+
+  ths69x49x45x4x20 being dumped.
+
+  ths98x78x45x4x20 being dumped.
+
+  ths99x79x45x4x20 being dumped.
+
+  ths107x87x45x4x20 being dumped.
+
+  ths109x89x45x4x20 being dumped.
+
+  ths163x141x45x4x20 being dumped.
+
+  ths146x124x45x4x20 being dumped.
+
+  ths165x143x45x4x20 being dumped.
+
+  ths166x144x45x4x20 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  fbga_ddr3_82p_96p being dumped.
+
+  fmc_15 being dumped.
+
+  tsoc-6 being dumped.
+
+  0805_a4 being dumped.
+
+  asp_134603_01 being dumped.
+
+  msop-8 being dumped.
+
+  tant-a being dumped.
+
+  tant-b being dumped.
+
+  tant-c being dumped.
+
+  tant-d being dumped.
+
+  sod-123 being dumped.
+
+  hdr_box_2x5 being dumped.
+
+  sot23_lumex being dumped.
+
+  sot23-5 being dumped.
+
+  n7e50-7516pg-20 being dumped.
+
+  hdr-1x1 being dumped.
+
+  hdr-1x2 being dumped.
+
+  sot_89 being dumped.
+
+  hdr-1x3 being dumped.
+
+  hdr-1x4 being dumped.
+
+  1367073-1 being dumped.
+
+  led-0603 being dumped.
+
+  led-1206 being dumped.
+
+  tqfp100 being dumped.
+
+  pqfp50p1720x2320-128r being dumped.
+
+  hdr-1x9 being dumped.
+
+  vqfp100 being dumped.
+
+  soc_iron_6211_484p being dumped.
+
+  tqfp144 being dumped.
+
+  fanhdr3 being dumped.
+
+  sw_4pin_smt being dumped.
+
+  soicw16 being dumped.
+
+  sot223-6 being dumped.
+
+  capae430 being dumped.
+
+  hdr_1x2 being dumped.
+
+  hdr_1x6 being dumped.
+
+  dcu_r-pdso-g8 being dumped.
+
+  osc_si500d_6p being dumped.
+
+  2512_smt being dumped.
+
+  32k10k-400 being dumped.
+
+  kvix-da29s-n-w being dumped.
+
+  exbe-1608 being dumped.
+
+  qfn65p500x500-21 being dumped.
+
+  sdmx-4-x being dumped.
+
+  thtl3301ef100qg being dumped.
+
+  tssop-20 being dumped.
+
+  tssop-16 being dumped.
+
+  pfc_s-pqfp-g80 being dumped.
+
+  egs_r-pdss-t12 being dumped.
+
+  qfn50p500x500_28 being dumped.
+
+  1210 being dumped.
+
+  0402 being dumped.
+
+  rj45_hfj11-1g01e being dumped.
+
+  0603 being dumped.
+
+  1206 being dumped.
+
+  0612 being dumped.
+
+  0805 being dumped.
+
+  osc_eg2121ca_6p being dumped.
+
+  con_tyco_350211 being dumped.
+
+  qfp50p1200x1200-64 being dumped.
+
+  mh_125_250 being dumped.
+
+  sma_3p_molex_73251185 being dumped.
+
+  5mmx3_2mm being dumped.
+
+  sw_450_500 being dumped.
+
+  so-8 being dumped.
+
+  led_grn_small_dual_stack being dumped.
+
+  hdr3 being dumped.
+
+  tssop65p640x300-8 being dumped.
+
+  con_mol_5569_6p being dumped.
+
+  abls being dumped.
+
+  pcie_1lane_edge being dumped.
+
+  hc-49 being dumped.
+
+  0603_short being dumped.
+
+  tsm_107_01_l_dv being dumped.
+
+  xtal_ma506 being dumped.
+
+  tsop50p2000x1400-56 being dumped.
+
+  dpak5 being dumped.
+
+  dpak_369_51 being dumped.
+
+  ml621s_f9de being dumped.
+
+  1108800 being dumped.
+
+  0603-a4 being dumped.
+
+  0805-a4 being dumped.
+
+  cap_f being dumped.
+
+  fdtop being dumped.
+
+  son-10 being dumped.
+
+  conn_usb_b being dumped.
+
+  sot-23 being dumped.
+
+  sot143 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  tlg125 being dumped.
+
+
+  *** Creating format symbols (.dra and .bsm) ***
+
+  scoredetails being dumped.
+
+  photo_plot_outline_15o5_1o5t being dumped.
+
+  film_title_block_155 being dumped.
+
+  beval_edge being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              138
+Number of package symbols dumped:         88
+Number of mechanical symbols dumped:       1
+Number of format symbols dumped:           4
+Number of shape symbols dumped:           11
+Number of flash symbols dumped:           20
+
+Total number of symbols dumped:          124
+*****************************************************
+
